@@ -12,4 +12,8 @@ This Python script checks whether files have been tampered with by verifying the
 1. Place files to monitor in the folder.
 2. Run the script:
    ```bash
+   
    python file_integrity_checker.py
+sample output 📎
+[+] Checking files for suspicious changes...
+[OK] example.txt is safe.
